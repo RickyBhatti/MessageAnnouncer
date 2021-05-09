@@ -1,6 +1,6 @@
 # Message Announcer
 
-A simple auto announcement script designed for FiveM servers.  
+A simple automatic chat announcement script designed for FiveM servers.  
 
 This script was designed to be server-sided rather than client-sided. That way, all clients will see the same message after *X* minutes, rather than every client seeing different messages.
 

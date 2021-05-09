@@ -26,7 +26,7 @@ Check out the [releases](https://github.com/RickyBGamez/MessageAnnouncer/release
 ## Performance
 ![](https://i.imgur.com/j5ktrt0.png)
 
-Message Announcer is very lightweight, and will not cause any performance issues for you.  
+Message Announcer is a very lightweight resource, and will not cause any performance issues for you.  
 
 ## Contributions
 If you've found a bug, you can go ahead and create an [issue](https://github.com/RickyBGamez/MessageAnnouncer/issues).  

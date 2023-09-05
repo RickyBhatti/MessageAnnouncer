@@ -29,9 +29,9 @@ Check out the [releases](https://github.com/RickyBGamez/MessageAnnouncer/release
 Message Announcer is a very lightweight resource, and will not cause any performance issues for you.  
 
 ## Contributions
-If you've found a bug, you can go ahead and create an [issue](https://github.com/RickyBGamez/MessageAnnouncer/issues).  
-If you've improved the resource, feel free to make a [pull request](https://github.com/RickyBGamez/MessageAnnouncer/pulls)!  
+If you've found a bug, you can go ahead and create an [issue](https://github.com/RickyBhatti/MessageAnnouncer/issues).  
+If you've improved the resource, feel free to make a [pull request](https://github.com/RickyBhatti/MessageAnnouncer/pulls)!  
 
 ## License
-Copyright © 2021 [RickyBGamez](https://github.com/RickyBGamez).  
-This project is [GNU GPL v3.0](https://github.com/RickyBGamez/MessageAnnouncer/blob/main/LICENSE) licensed.
+Copyright © 2023 [Ricky Bhatti](https://github.com/RickyBhatti).  
+This project is [GNU GPL v3.0](https://github.com/RickyBhatti/MessageAnnouncer/blob/main/LICENSE) licensed.
